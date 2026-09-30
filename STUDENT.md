@@ -16,9 +16,7 @@ Fill in every field below before your first commit. This file is how instructors
 
 ## Personal Learning Objective
 
-Write 2–3 sentences describing what you specifically want to be able to do by the end of the 8 week
-I want to develop practical skills in AI, automation, and robotics. I want to learn how to build real-world projects and use these technologies to solve problems. I also hope to improve my programming and problem-solving skills throughout the programme.
----
+By the end of the eight weeks, I want to develop practical skills in AI, automation, and robotics and be able to build real-world projects using these technologies. I also want to improve my Python programming and problem-solving skills so I can confidently create solutions to practical problems.
 
 ## How to update this file
 
